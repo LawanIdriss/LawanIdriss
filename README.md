@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LawanIdriss
 - 👀 I’m interested in IT 
-- 🌱 I’m currently learning UX design at Udacity
+- 🌱 I’m currently learning AI for IT Professionals
 - 💞️ I’m looking to collaborate with smart people in this platform.
 - 📫 You can reach me at LinkedIn: linkedin.com/in/lawanidriss
 
