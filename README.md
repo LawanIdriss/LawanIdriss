@@ -1,2 +1,2 @@
-Hi There, I’m LawanIdriss 👋
+Hi There, I’m Lawan Idriss 👋
 
