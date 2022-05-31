@@ -38,4 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lawanidriss&show_icons=true&locale=en" alt="lawanidriss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lawanidriss&" alt="lawanidriss" /></p>
-![Header](./your-header-image-name.png)
