@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lawan Idriss</h1>
-<h3 align="center">I'm passionate solving complex problem to end-user</h3>
+<h1 align="center">Hi 👋, I'm Lawan</h1>
+<h3 align="center">IT professional with strong foundation in solving complex problem to end-user</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawanidriss&label=Profile%20views&color=0e75b6&style=flat" alt="lawanidriss" /> </p>
 
@@ -7,19 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/lawanidriss" target="blank"><img src="https://img.shields.io/twitter/follow/lawanidriss?logo=twitter&style=for-the-badge" alt="lawanidriss" /></a> </p>
 
+- ☛ I'm currently looking for **technical support and system administration role**
+
 - 🔭 I’m currently working on [PishBot](https://github.com/LawanIdriss/PishBot.git)
 
-- 🌱 I’m currently learning **Python,JavaScript and anything I found useful**
+- 🥇 I’m currently learning **Python,JavaScript and anything I found useful to my career and mental health**
 
 - 👯 I’m looking to collaborate on [PishBot](https://github.com/LawanIdriss/PishBot.git)
 
 - 🤝 I’m looking for help with [PishBot](https://github.com/LawanIdriss/PishBot.git)
 
-- 💬 Ask me about **Python,Technical Support**
+- 💬 Ask me about **Technical Support, System Administration, Python and Nonprofit Technology**
 
-- 📫 How to reach me **iamlawanidriss@gmail.com**
+- 📫 How to reach me **📧iamlawanidriss@gmail.com, 📞+2347064541666**
 
-- ⚡ Fun fact **Let's Solve the Problem Together**
+- ⚡ Fun fact **Listening musics 🎧 on Spotify while solving problems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
