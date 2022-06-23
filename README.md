@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lawan</h1>
-<h3 align="center">IT professional with strong foundation in solving complex problem to end-user</h3>
+<h1 align="center">Hi there👋, I'm Lawan Idriss</h1>
+<h3 align="center">IT professional with strong foundation in system administration and solving complex problem to end-user</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawanidriss&label=Profile%20views&color=0e75b6&style=flat" alt="lawanidriss" /> </p>
 
