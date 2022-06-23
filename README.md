@@ -1,3 +1,4 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/0dqdq3m.png" height="175px"/></a>
 <h1 align="center">Hi there👋, I'm Lawan Idriss</h1>
 <h3 align="center">IT professional with strong foundation in system administration and solving complex problem to end-user</h3>
 
