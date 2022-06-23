@@ -1,6 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/0dqdq3m.png" height="175px"/></a>
-<h1 align="center">Hi there👋, I'm Lawan Idriss</h1>
-<h3 align="center">IT professional with strong foundation in system administration and solving complex problem to end-user</h3>
+<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="175px"/></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lawan Idriss</h1>
+<h3 align="center">IT professional with strong foundation in system administration and solving complex problem to end-user.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawanidriss&label=Profile%20views&color=0e75b6&style=flat" alt="lawanidriss" /> </p>
 
