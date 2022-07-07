@@ -8,17 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/lawanidriss" target="blank"><img src="https://img.shields.io/twitter/follow/lawanidriss?logo=twitter&style=for-the-badge" alt="lawanidriss" /></a> </p>
 
-- ☛ I'm currently looking for **technical support and system administration role**
+- ☛ I'm currently looking for **Technical Support Engineer role**
 
-- 🔭 I’m currently working on [PishBot](https://github.com/LawanIdriss/PishBot.git)
+- 🥇 I’m currently upskilling in **Python, JavaScript and anything I found useful to my professional development**
 
-- 🥇 I’m currently learning **Python,JavaScript and anything I found useful to my career and mental health**
+- 👯 I’m looking to collaborate on cool projects 
 
-- 👯 I’m looking to collaborate on [PishBot](https://github.com/LawanIdriss/PishBot.git)
+- 🤝 I’m looking connect with technical support experts
 
-- 🤝 I’m looking for help with [PishBot](https://github.com/LawanIdriss/PishBot.git)
-
-- 💬 Ask me about **Technical Support, System Administration, Python and Nonprofit Technology**
+- 💬 Ask me about **Technical Support and Customer Support**
 
 - 📫 How to reach me **📧iamlawanidriss@gmail.com, 📞+2347064541666**
 
