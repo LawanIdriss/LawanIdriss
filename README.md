@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Technical Support and Customer Support**
 
-- 📫 How to reach me **📧iamlawanidriss@gmail.com, 📞+2347064541666**
+- 📫 How to reach me **📧lawanidriss88@gmail.com, 📞+2347064541666**
 
 - ⚡ Fun fact **Listening musics 🎧 on Spotify while solving problems**
 
