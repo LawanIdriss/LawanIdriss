@@ -14,9 +14,9 @@
 
 - 👯 I’m looking to collaborate on cool projects 
 
-- 🤝 I’m looking connect with technical support experts
+- 🤝 I’m looking to connect with industry experts
 
-- 💬 Ask me about **Technical Support and Customer Support**
+- 💬 Ask me about **Technical Support and Developer Community**
 
 - 📫 How to reach me **📧lawanidriss88@gmail.com, 📞+2347064541666**
 
