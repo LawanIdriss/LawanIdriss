@@ -1,5 +1,4 @@
 <a href="#"><img width="100%" height="auto" src="href="https://media.giphy.com/media/l2JJEl234byZPdMxq/giphy.gif" height="175px"/></a>
-  <iframe src="https://giphy.com/embed/pOEbLRT4SwD35IELiQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-technology-mograph-pOEbLRT4SwD35IELiQ">via GIPHY</a></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lawan Idriss</h1>
 <h3 align="center">Professional Technical Support Engineer.</h3>
 
