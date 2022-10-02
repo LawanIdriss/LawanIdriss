@@ -7,11 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lawanidriss" alt="lawanidriss" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/lawanidriss" target="blank"><img src="https://img.shields.io/twitter/follow/lawanidriss?logo=twitter&style=for-the-badge" alt="lawanidriss" /></a> </p>
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/lawanidriss/15min', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
-<!-- Calendly badge widget end -->
+
 - ☛ I'm currently looking for **Technical Support Engineer role**
 
 - 🥇 I’m currently upskilling in **Python, JavaScript and anything I found useful to my professional development**
