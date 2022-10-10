@@ -8,15 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/lawanidriss" target="blank"><img src="https://img.shields.io/twitter/follow/lawanidriss?logo=twitter&style=for-the-badge" alt="lawanidriss" /></a> </p>
 
-- ☛ I'm currently looking for **Technical Support Engineer role**
-
-- 🥇 I’m currently upskilling in **Python, JavaScript and anything I found useful to my professional development**
 
 - 👯 I’m looking to collaborate on cool projects 
 
 - 🤝 I’m looking to connect with industry experts
 
-- 💬 Ask me about **Technical Support and Developer Community**
+- 💬 Ask me about **Technical Support, Cloud Computing and Developer Community**
 
 - 📫 How to reach me **📧lawanidriss88@gmail.com, 📞+2347064541666**
 
