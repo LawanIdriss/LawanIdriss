@@ -35,3 +35,21 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lawanidriss&show_icons=true&locale=en" alt="lawanidriss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lawanidriss&" alt="lawanidriss" /></p>
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Yobe/Nigeria
+
+🔥 Development Tool: 
+Visual Studio Code                  10 hrs 45 mins        █████████████████████░░   90.0%
+Android Studio                      10 hrs 45 mins        ██████████████████░░░░░   80.0%
+
+💻 Operating System: 
+Linux                               13 hrs 10 mins        ██████████████████████░   93.01% 
+Windows                             5 hrs 50 mins         ██████████████░░░░░░░░░   50.00%
+
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
