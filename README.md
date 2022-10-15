@@ -53,4 +53,4 @@ Windows                             5 hrs 50 mins         ███████�
 
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with inspiring people</b> so if you want to say <b>hi, I'll be more tha happy to meet you!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with inspiring people</b> so if you want to say <b>hi, I'll be more than happy to meet you!</b> :)</em>
