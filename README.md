@@ -1,5 +1,4 @@
 <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="175px"/></a>
-[![@lawanidriss's Holopin board](https://holopin.me/lawanidriss)](https://holopin.io/@lawanidriss)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lawan Idriss</h1>
 <h3 align="center">Professional Technical Support Engineer.</h3>
 
@@ -53,5 +52,6 @@ Linux              13 hrs 10 mins     ██████████████
 Windows            5 hrs 50 mins      ██████████████░░░░░░░░░   50.00%
 
 ```
+[![@lawanidriss's Holopin board](https://holopin.me/lawanidriss)](https://holopin.io/@lawanidriss)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with inspiring people</b> so if you want to say <b>hi, I'll be more than happy to meet you!</b> :)</em>
