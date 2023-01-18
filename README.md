@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking to connect with industry experts
 
-- 💬 Ask me about **Technical Support, Cloud Computing and Developer Community**
+- 💬 Ask me about **Support Enginnering, Cloud Computing, Startup and Developer Community**
 
 - 📫 How to reach me **📧lawanidriss88@gmail.com, 📞+2347064541666**
 
