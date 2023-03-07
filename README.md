@@ -52,4 +52,4 @@ Windows            5 hrs 50 mins      ██████████████
 ```
 [![@lawanidriss's Holopin board](https://holopin.me/lawanidriss)](https://holopin.io/@lawanidriss)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'd be delighted to meet you if you want to say hi</b> because I love connecting<b> with motivated individuals.</b> </em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to connect with motivated individuals, so if you want to say hello, I'd love to meet you.</b> </em>
