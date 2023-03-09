@@ -1,7 +1,7 @@
 <a href="https://lawanidriss.me"><img width="100%" height="auto" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" height="500px"/></a>
 
 
-## Hi there! 👋
+# Hi there! 👋
 
 I'm Lawan Idriss, a IT Engineer with a passion for cloud computing, startups, and developer community. 
 
@@ -13,6 +13,23 @@ I'm Lawan Idriss, a IT Engineer with a passion for cloud computing, startups, an
 ### Ask Me About
 
 - 💬 If you have any questions related to Support Engineering, Cloud Computing, Startups, or Developer Community, feel free to ask me!
+
+### Developer Communities & Programs
+
+- 🔥AWS Community Builder 
+- 🔥AngelHack Ambassador
+- 🔥DeepLearning.AI Ambassador
+
+### Favorite Quotes
+
+- 💬"Richness is not having many belongings, but richness is the contentment of the soul." - Prophet Muhammad
+- 💬"We cannot solve our problems with the same thinking we used when we created them." - Albert Einstein
+- 💬"Life is beautiful if we choose to appreciate it." - Lawan Idriss
+
+### Time Zone
+
+⌚ I'm based in Yobe/Nigeria, which is in the West African Time Zone (GMT+1).
+
 
 ### How to Reach Me
 
