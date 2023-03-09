@@ -1,4 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" height="175px"/></a>
+### Header Animation
+<a href="https://lawanidriss.me"><img width="100%" height="auto" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" height="500px"/></a>
 
 ## Hi there! 👋
 
