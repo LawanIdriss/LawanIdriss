@@ -1,4 +1,5 @@
-<a href="https://lawanidriss.me"><img width="100%" height="auto" src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" height="500px"/></a>
+<a href="https://lawanidriss.me"><img width="100%" height="auto" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" height="500px"/></a>
+
 
 ## Hi there! 👋
 
@@ -15,8 +16,14 @@ I'm Lawan Idriss, a IT Engineer with a passion for cloud computing, startups, an
 
 ### How to Reach Me
 
-- 📧 Email: hello@lawanidriss.me
-- 📞 Phone: +2347064541666
+🌐 Personal Website: [https://lawanidriss.me](https://lawanidriss.me)
+
+🏢 Company Website: [https://technipy.com](https://technipy.com)
+
+📧 Email: [hello@lawanidriss.me](mailto:hello@lawanidriss.me)
+
+📞 Phone: [+2347064541666](tel:+2347064541666)
+
 
 ### Fun Fact
 
