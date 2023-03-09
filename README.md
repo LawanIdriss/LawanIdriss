@@ -1,6 +1,27 @@
 <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" height="175px"/></a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lawan Idriss</h1>
-<h3 align="center">IT Professional | Developer Community Expert.</h3>
+
+## Hi there! 👋
+
+I'm Lawan Idriss, a IT Engineer with a passion for cloud computing, startups, and developer community. 
+
+### What I'm Looking For
+
+- 👯 I'm looking to collaborate on interesting and challenging projects where I can contribute my skills and expertise.
+- 🤝 I'm looking to connect with industry experts who can help me learn and grow as a professional.
+
+### Ask Me About
+
+- 💬 If you have any questions related to Support Engineering, Cloud Computing, Startups, or Developer Community, feel free to ask me!
+
+### How to Reach Me
+
+- 📧 Email: hello@lawanidriss.me
+- 📞 Phone: +2347064541666
+
+### Fun Fact
+
+- ⚡ I love listening to music on Spotify while solving problems!
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawanidriss&label=Profile%20views&color=0e75b6&style=flat" alt="lawanidriss" /> </p>
 
@@ -8,16 +29,6 @@
 
 <p align="left"> <a href="https://twitter.com/lawanidriss" target="blank"><img src="https://img.shields.io/twitter/follow/lawanidriss?logo=twitter&style=for-the-badge" alt="lawanidriss" /></a> </p>
 
-
-- 👯 I’m looking to collaborate on cool projects 
-
-- 🤝 I’m looking to connect with industry experts
-
-- 💬 Ask me about **Support Enginnering, Cloud Computing, Startup and Developer Community**
-
-- 📫 How to reach me **📧hello@lawanidriss.me, 📞+2347064541666**
-
-- ⚡ Fun fact **Listening musics 🎧 on Spotify while solving problems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
