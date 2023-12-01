@@ -33,7 +33,7 @@ I'm Lawan Idriss, a IT Engineer with a passion for cloud computing, startups, an
 
 ### How to Reach Me
 
-🌐 Personal Website: [https://lawan.pages.dev](https://lawan.pages.dev)
+🌐 Personal Website: [https://lawanidriss.pages.dev](https://lawanidriss.pages.dev)
 
 🏢 Company Website: [https://clurebyte.com](https://clurebyte.com)
 
