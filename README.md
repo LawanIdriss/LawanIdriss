@@ -1,8 +1,7 @@
 <a href="https://lawanidriss.me"><img width="100%" height="auto" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" height="500px"/></a>
 
-# Hi there, I'm Lawan Idriss! 👋  
+# Hi there, I'm Lawan! 👋  
 
-🚀 **Building Seamium – The Everything Energy App**  
 
 I'm the CEO of [Seamium](https://seamium.com), where we're revolutionizing energy access and mobility. Seamium integrates smart energy solutions, from EV charging and gas delivery to AI-powered optimizations.  
 
