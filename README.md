@@ -2,8 +2,6 @@
 **Founder & CEO of [Seamium](https://seamium.com)**  
 **Powering lives seamlessly**
 
-**AI-Powered Energy Platform**
-
 
 Hello, I’m Lawan Idriss, the founder and CEO of Seamium, a company that is leading in AI-driven energy intelligence. I am passionate about developing technology that delivers significant business value, particularly in energy efficiency, operational optimization, and digital transformation.
 
