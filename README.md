@@ -1,19 +1,19 @@
 # Lawan Idriss  
-**Founder & CEO of [Seamium](https://seamium.com)**  
-**Powering lives seamlessly**
+**Founder & CEO @ [Seamium](https://seamium.com)**  
+**Autonomous Energy Engine**
 
-
-Hello, I’m Lawan Idriss, the founder and CEO of Seamium, a company that is leading in AI-driven energy intelligence. I am passionate about developing technology that delivers significant business value, particularly in energy efficiency, operational optimization, and digital transformation.
+Hello. I’m Lawan Idriss, the founder and CEO of Seamium, an energy technology company working on the future of intelligent energy systems. My work is focused on building technology that delivers real value in energy reliability, efficiency, and long-term resilience through engineered autonomy.
 
 ## About Seamium
-An AI-powered platform, **Seamium** harnesses energy intelligence to monitor, optimize, secure, and manage energy usage and payments for businesses, homes, and more.
+Seamium is an AI-native autonomous energy engine that monitors, optimizes, secures and manages energy systems at scale without manual intervention.
 
-**Key Capabilities:**
-- Real-time energy monitoring
-- AI-based anomaly detection
-- Smart recommendations for reducing waste
-- Energy performance dashboards & alerts
+**What the engine does**
+- Monitors energy systems in real time
+- Optimizes and controls operations automatically
+- Makes decisions based on verified data instead of fixed rules
+- Detects faults early and maintains resilience over time
+- Manages the system securely with little human oversight
 
-> **Why it matters:** Energy is often one of the top operational costs — Seamium helps reduce that burden intelligently.
+> **Why it matters:** Energy is one of the largest and most critical cost centers in any operation. Seamium replaces manual effort with autonomous intelligence to unlock stability, savings and safety at scale.
 
-Learn more: [seamium.com](https://seamium.com)
+Learn more at **[seamium.com](https://seamium.com)**
