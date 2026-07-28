@@ -4,19 +4,15 @@
 
 ---
 
-Hello. I’m Lawan Idriss, founder and CEO of Seamium.
+Hello. I'm Lawan Idriss, founder focused on the energy layer beneath compute.
 
-I work at the intersection of energy systems and large-scale compute, building technology that governs how energy is used under real-world operating constraints.
-
-My focus is on systems that behave predictably as conditions change. Systems that reduce operational overhead, enforce limits, and remain dependable over time. The goal is practical reliability and long-term resilience in environments where energy availability and cost shape outcomes.
+Building the systems that decide whether compute scales, or stalls on energy limits.
 
 ---
 
 ## About Seamium
 
-Seamium builds systems that govern how compute infrastructure consumes energy.
-
-The company develops technology that aligns workload execution with real-world energy availability, pricing, and defined operating limits. Rather than treating energy as a fixed input or a downstream accounting concern, Seamium brings energy governance directly into infrastructure operations, where execution decisions are made.
+Seamium builds systems that govern how compute infrastructure consumes energy, based on real availability, cost, and operating limits.
 
 ---
 
@@ -32,9 +28,7 @@ The company develops technology that aligns workload execution with real-world e
 
 ## Why It Matters
 
-Energy is no longer an abstract utility.
-
-It defines operating cost, reliability, and the ability to scale compute systems. Seamium replaces manual coordination and rigid configurations with governed execution, allowing infrastructure to remain accountable and resilient as conditions shift.
+Energy is no longer an abstract utility. It defines whether infrastructure scales or stalls.
 
 ---
 
